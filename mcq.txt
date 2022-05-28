@@ -1,0 +1,100 @@
+#Divide 30 by half and add ten.
+40
+20
+>70
+25
+#Mathew's father has three sons- Joseph I and Joseph II. Can you guess the name of the third son?
+>Mathew
+Joseph III
+Samuel
+Isaac
+#How many months have 28 days?
+>All of them
+1
+2
+Depends if there's leap year or not
+#A farmer has 17 sheep, all of them but 8 die. How many sheep are still standing?
+>8
+9
+17
+None of them
+#What is the largest canyon in the world?
+Rocky Canyon, Canada
+Verdon Gorge, France
+King's Canyon, Australia
+>Grand Canyon, USA
+#In which museum can you find Leonardo Da Vinci's Mona Lisa?
+>Le Louvre
+Uffizi Museum
+British Museum
+Metropolitan Museum of Art
+#What is the largest continent in size?
+>Asia
+Africa
+Europe
+North America
+#Which famous inventor invented the telephone?
+Thomas Edison
+Benjamin Franklin
+>Alexander Graham Bell
+Nikola Tesla
+#What does the Richter scale measure?
+Wind Speed
+Temperature
+Tornado Strength
+>Earthquake intensity
+#What is the longest river in the world?
+Amazon River
+>Nile
+Yellow River
+Congo River
+#When was the first Harry Potter book published?
+>1997
+1999
+2001
+2003
+#Which author is known for creating Hercule Poirot?
+James Patterson
+Stephen King
+Arthur Conan Doyle
+>Agatha Christie
+#What is the name of the dog in Tintin?
+>Snowy
+Flakes
+Dottie
+Luna
+#What is guacamole made of?
+Banana
+Yoghurt
+>Avocado
+Chick Pea
+#Who was the first woman to win a Nobel Prize?
+Mother Teresa
+>Marie Curie
+Jane Adams
+Alva Myrdal
+#Apart from water, what is the most popular drink in the world?
+>Tea
+Coffee
+Beer
+Orange Juice
+#In The Lion King, who is Simba's uncle?
+Mufasa
+>Scar
+Timon
+Zazu
+#How many bones are there in an adult human body?
+186
+>206
+286
+306
+#What's Garfield favorite food?
+Pizza
+>Lasagna
+Burger
+Sandwich
+#Which chemical element has Ag as a symbol?
+Gold
+>Silver
+Iron
+Carbon
